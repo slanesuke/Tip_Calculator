@@ -1,0 +1,18 @@
+<resources>
+    <string name="tip_calc_title">Tip Calculator</string>
+    <string name="dollar_value_format">$%1$,2f</string>
+    <string name="percent_value_format">%%%1$d</string>
+    <string name="txt_bill_amount">Bill Amount:</string>
+    <string name="txt_tip_label">Tip: </string>
+    <string name="txt_total_label">Total:</string>
+    <string name="zero_dollars">$0.00</string>
+    <string name="txt_zero_total">$0.00</string>
+    <string name="txt_tip_percent">Tip%:</string>
+    <string name="zero_percent">15%</string>
+    <string name="txt_round_total">Round Total:</string>
+    <string name="bill_amount">bill amount</string>
+    <string name="btn_round_ip">Round Up</string>
+    <string name="app_name">Tip Calculator</string>
+
+
+</resources>
